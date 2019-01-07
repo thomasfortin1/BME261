@@ -1,4 +1,7 @@
 test content for git tutorial
 still changing things
+<<<<<<< HEAD
 hello there
 by now
+=======
+>>>>>>> 5fe8c35428158255244935f64ab895a00d1a5654
