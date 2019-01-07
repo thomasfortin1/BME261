@@ -1,2 +1,3 @@
 test content for git tutorial
-makings different stuff
+changing things
+making different stuff
